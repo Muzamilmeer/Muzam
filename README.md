@@ -1,3 +1,145 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Muzamil Streetwear</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+    body {
+      font-family: 'Orbitron', sans-serif;
+      margin: 0;
+      background: #111;
+      color: white;
+    }
+
+    header {
+      background: linear-gradient(135deg, #000000, #1f1f1f);
+      padding: 60px 20px 40px;
+      text-align: center;
+    }
+
+    .logo {
+      font-size: 48px;
+      text-transform: uppercase;
+      color: #00ffff;
+      text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff;
+      transform: rotateX(20deg);
+      animation: flicker 2s infinite;
+    }
+
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+
+    .link-box {
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .link-box a {
+      background: #00ffff;
+      color: #000;
+      padding: 15px 30px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+      box-shadow: 0 0 15px #00ffff;
+      transition: 0.3s ease-in-out;
+    }
+
+    .link-box a:hover {
+      background: #008080;
+      color: white;
+      box-shadow: 0 0 25px #00ffff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">Muzamil Streetwear</div>
+  </header>
+
+  <div class="link-box">
+    <a href="https://example.com/muzamil-streetwear">Visit Store</a>
+  </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Muzamil Streetwear</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+    body {
+      font-family: 'Orbitron', sans-serif;
+      margin: 0;
+      background: #111;
+      color: white;
+    }
+
+    header {
+      background: linear-gradient(135deg, #000000, #1f1f1f);
+      padding: 60px 20px 40px;
+      text-align: center;
+    }
+
+    .logo {
+      font-size: 48px;
+      text-transform: uppercase;
+      color: #00ffff;
+      text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 15px #00ffff;
+      transform: rotateX(20deg);
+      animation: flicker 2s infinite;
+    }
+
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+
+    .link-box {
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .link-box a {
+      background: #00ffff;
+      color: #000;
+      padding: 15px 30px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+      box-shadow: 0 0 15px #00ffff;
+      transition: 0.3s ease-in-out;
+    }
+
+    .link-box a:hover {
+      background: #008080;
+      color: white;
+      box-shadow: 0 0 25px #00ffff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">Muzamil Streetwear</div>
+  </header>
+
+  <div class="link-box">
+    <a href="https://example.com/muzamil-streetwear">Visit Store</a>
+  </div>
+</body>
+</html>
+
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
